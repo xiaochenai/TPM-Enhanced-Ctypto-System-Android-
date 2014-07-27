@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"    
+    android:background="@android:color/black" >
+    
+    
+    <Button
+        android:id="@+id/radial_menu_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/send"
+        android:onClick="send"
+        android:textColor="@android:color/white"/>
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:ems="10"
+        android:hint="Password First..."
+        android:inputType="textPassword" 
+        android:textColor="@android:color/white"/>
+    <FrameLayout 
+        android:id="@+id/fragment_container"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="@drawable/auburnlogo"/>
+
+</LinearLayout>

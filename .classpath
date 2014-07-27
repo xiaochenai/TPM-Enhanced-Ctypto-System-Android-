@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/base64coder.jar"/>
+	<classpathentry kind="lib" path="G:/android/Radial Widget/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="G:/android/Radial Widget/libs/radial-menu-v4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/shareCrypto.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
